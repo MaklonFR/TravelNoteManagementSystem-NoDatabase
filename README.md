@@ -12,12 +12,12 @@ ROUTEMAP SCRIPT APLIKASI:
 ![RouteMap 2](https://user-images.githubusercontent.com/88584119/154087730-f3027819-0706-4c27-98e0-bc43e420338c.png)
 
 Cara menggunakannya:
-1. Copy Folder ukk1 ke folder XAMPP-htdocs
-2. Jalankan Webserver Apache XAMPP
+1. Copy Folder **ukk1** ke folder **c:/XAMPP/htdocs**
+2. Jalankan **Webserver Apache XAMPP**
 3. Buka browser chrome
-4. Masukan alamat url: localhost/ukk1
-5. Mulai Register dengan memasukan NIK dan Nama Lengkap
-6. Login menggunakan NIK dan Nama Lengkap yang telah terdaftar.
+4. Masukan alamat url: **localhost/ukk1**
+5. Mulai Register dengan memasukan **NIK** dan **Nama Lengkap**
+6. Login menggunakan **NIK** dan **Nama Lengkap** yang telah terdaftar.
 7. Selesai
 
 SALAM
