@@ -7,6 +7,8 @@ APLIKASI CATATAN PERJALANAN MENNGUNAKAN:
 
 ROUTEMAP SCRIPT APLIKASI:
 
-![RouteMap](https://user-images.githubusercontent.com/88584119/154087607-54e0abf1-65e4-4e26-bd6f-c5d9a97a7249.png)
+![RouteMap 1](https://user-images.githubusercontent.com/88584119/154087715-0673a016-64b1-4606-8c7a-9bffb6f92a67.png)
+![RouteMap 2](https://user-images.githubusercontent.com/88584119/154087730-f3027819-0706-4c27-98e0-bc43e420338c.png)
+
 
 
