@@ -1,4 +1,4 @@
-# Travel Note Management System using text file (No Database)
+# Uji Kompetensi Keahlian (UKK) Rekayasa Perangkat Lunak (Travel Note Management System using Database)
 Travel Notes Management System
 
 
